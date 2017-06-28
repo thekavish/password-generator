@@ -1,6 +1,6 @@
 # Password Generator
 Simple & Strong password generator
-1.0.1 is minimum stable version
+1.0.2 is the minimum stable version.
 
 ### Installation
 
